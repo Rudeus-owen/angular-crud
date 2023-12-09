@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Brinn",
+      "lastName": "Jephcote",
+      "email": "bjephcote0@archive.org",
+      "dob": "1981-10-05T12:09:39Z",
+      "gender": "Female",
+      "education": "Graduate",
+      "company": "Gabspot",
+      "experience": 36,
+      "package": 37
+    },
+    {
+      "firstName": "Ray",
+      "lastName": "Lin",
+      "email": "myo@gmail.com",
+      "dob": "2023-12-11T17:30:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "MSI",
+      "experience": 2,
+      "package": 2,
+      "id": 2
+    }
+  ]
+}
